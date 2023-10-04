@@ -1,9 +1,5 @@
 const quizData = [
-    {
-      question: '¿Cuál es el lugar de nacimiento de Rubén Darío?',
-      options: ['Managua', 'Granada', 'León', 'Masaya'],
-      answer: 'Metapa (Ahora conocida como Ciudad Darío)',
-    },
+   
     {
       question: '¿En qué movimiento literario se considera a Rubén Darío una figura importante?',
       options: ['Romanticismo', 'Realismo', 'Modernismo', 'Naturalismo'],
@@ -24,6 +20,58 @@ const quizData = [
       options: ['Azul', 'Cantos de vida y esperanza', 'Prosas Profanas', 'Los Raros'],
       answer: 'Cantos de vida y esperanza',
     },
+
+    {
+      question: '¿Padres Biologicos de Ruben Dario?',
+      options: ['Manuel Garcia y Rosa Sarmiento', 'Bernarda Sarmiento y Felix Ramirez'],
+      answer: 'Manuel Garcia y Rosa Sarmiento',
+    },
+
+    {
+      question: '¿A que edad Aprendio a leer?',
+      options: ['3 años', '4 años', '5 años', '6 años'],
+      answer: '3 años',
+    },
+    
+    {
+      question: '¿A que edad escribio su primer poema?',
+      options: ['3 años', '4 años', '5 años', '6 años'],
+      answer: '6 años',
+    },
+
+    {
+      question: '¿Cual fue el primer poema de Dario?',
+      options: ['La Fe', 'A Margarita', 'A mi padre', 'A mi hermano'],
+      answer: 'La Fe',
+    },
+
+    {
+      question: '¿En que año nacio y murio el poeta niño?',
+      options: ['1867-1916', '1867-1889', '1867-1890', '1867-1891'],
+      answer: '1867-1916',
+    },
+
+    {
+      question: '¿Cuál es el lugar de nacimiento de Rubén Darío?',
+      options: ['Metapa', 'Granada', 'León' , 'Managua'],
+      answer: 'Metapa',
+    },
+
+    {
+      question: '¿Aque paises viajo Ruben Dario entre 1899 y 1905?',
+      options: ['España', 'Venezuela', 'Chile' ],
+      answer: 'España',
+    },
+
+
+    {
+      question: '¿Cual fue la primer esposa que tuvo Ruben Dario?',
+      options: ['Rosa Sarmiento', 'Francisca Sanchez', 'Rafaela Contreras', 'Rosa Sarmiento'],
+      answer: 'Rafaela Contreras',
+    },
+
+
+
   ];
   
   // El resto de tu código existente permanece sin cambios.
