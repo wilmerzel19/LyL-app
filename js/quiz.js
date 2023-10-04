@@ -107,7 +107,7 @@ const quizData = [
     submitButton.style.display = 'none';
     retryButton.style.display = 'inline-block';
     showAnswerButton.style.display = 'inline-block';
-    resultContainer.innerHTML = `You scored ${score} out of ${quizData.length}!`;
+    resultContainer.innerHTML = `Tu Puntuacion ${score} de ${quizData.length}!`;
   }
   
   function retryQuiz() {
@@ -140,8 +140,8 @@ const quizData = [
     }
   
     resultContainer.innerHTML = `
-      <p>You scored ${score} out of ${quizData.length}!</p>
-      <p>Incorrect Answers:</p>
+      <p>Tu Puntuacion ${score} de ${quizData.length}!</p>
+      <p>Respuestas Incorrectas:</p>
       ${incorrectAnswersHtml}
     `;
   }
