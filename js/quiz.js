@@ -68,7 +68,7 @@ const quizData = [
       question: '¿Cual fue la primer esposa que tuvo Ruben Dario?',
       options: ['Rosa Sarmiento', 'Francisca Sanchez', 'Rafaela Contreras', 'Rosa Sarmiento'],
       answer: 'Rafaela Contreras',
-    },
+    }, 
 
 
 
