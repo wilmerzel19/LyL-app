@@ -1,0 +1,46 @@
+*:after,
+*:before {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+}
+.row{
+    background: url(../img/intro.png) no-repeat right center;
+    background-size: cover;
+    padding: 60px 0;
+    position: relative;
+    overflow: hidden;
+    min-height: 750px
+}
+iframe {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 0px;
+    width: 371px;
+    height: 650px;
+    border-radius: 11px;
+}
+
+.phone {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    width: 370px;
+    height: 650px;
+    border: 7px solid #333;
+    float: left;
+    border-radius: 20px;
+}
